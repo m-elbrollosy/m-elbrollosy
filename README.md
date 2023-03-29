@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud-elbrollosy
 - 🌱 I’m currently completed Front End Web Development Professional Track on Udacity - by EG FWD.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m available to work with yours .
 - 📫 How to reach me ...
 
 <!---
