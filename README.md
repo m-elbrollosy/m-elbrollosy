@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mahmoud-elbrollosy
-- 🌱 I’m currently completed Front End Web Development Professional Track on Udacity - by EG FWD.
+- 🌱 completed Full Stack Web Developer At Position Of PHP
+- 🌱 completed Front End Web Development Professional Track on Udacity - by EG FWD.
 - 💞️ I’m available to work with yours .
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mahmoud-el-brolosy/)
 
